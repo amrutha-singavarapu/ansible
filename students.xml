@@ -1,0 +1,38 @@
+<!-- student object -->
+    <Students>
+    <student>
+        <FirstName> Amrutha </FirstName>
+        <DOB> 2000-08-14 </DOB>
+        <Email> amrutha@gmail.com </Email>
+        <Addresses>
+            <PermenantAddress>
+                <FlatNo> 104 </FlatNo>
+                <streetAddress> Gandhi Nagar </streetAddress>
+                <City> hyd </City>
+            </PermenantAddress>
+            <CurrentAddress>
+                <FlatNo> 104 </FlatNo>
+                <streetAddress> Gandhi Nagar </streetAddress>
+                <City> hyd </City>
+            </CurrentAddress>
+        </Addresses>
+    </student>
+    
+     <student>
+        <FirstName> Amrutha </FirstName>
+        <DOB> 2000-08-14 </DOB>
+        <Email> amrutha@gmail.com </Email>
+        <Addresses>
+            <PermenantAddress>
+                <FlatNo> 104 </FlatNo>
+                <streetAddress> Gandhi Nagar </streetAddress>
+                <City> hyd </City>
+            </PermenantAddress>
+            <CurrentAddress>
+                <FlatNo> 104 </FlatNo>
+                <streetAddress> Gandhi Nagar </streetAddress>
+                <City> hyd </City>
+            </CurrentAddress>
+        </Addresses>
+    </student>
+</Students>          

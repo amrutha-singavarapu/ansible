@@ -1,0 +1,19 @@
+    {
+        "firstname": "amrutha",
+        "dob": "2000-01-01",
+        "addresses":[
+            {
+                "type": "perm",
+                "flatnumber": "104",
+                "street": "gandhi nagar",
+                "city": "hyd"
+            },
+            {
+                "type": "perm",
+                "flatnumber": "104",
+                "street": "gandhi nagar",
+                "city": "hyd"
+            }
+        ],
+        "skills": ["java", "devops", "cloud"]
+    }
