@@ -2,7 +2,7 @@
   hosts: local
   connection: local
   vars:
-    topics: Linux, shell, terraform
+    topics: Linux, shell, ansible, terraform
     tags:
       name: ansible
       project: roboshop
@@ -14,7 +14,7 @@
 
    - name: convert string to list
      ansible.builtin.debug:
-       msg: "{{ topics | split(',')}}"
+       msg: "{{ topics | split(',') }}"
 
    - name: convert map to list
      ansible.builtin.debug:
