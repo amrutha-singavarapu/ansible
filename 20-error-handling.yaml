@@ -9,7 +9,7 @@
      ignore_errors: true
 
    - name: print the ouput
-     ansible.builtin.command:
+     ansible.builtin.debug:
        msg: "{{ user_ouput }}"
 
    - name: create user
