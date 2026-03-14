@@ -8,7 +8,7 @@
      register: user_ouput
      ignore_errors: true
 
-   - name: print the output
+   - name: print the ouput
      ansible.builtin.command:
        msg: "{{ user_ouput }}"
 
